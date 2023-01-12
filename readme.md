@@ -1,4 +1,4 @@
-# Human-Action-Recognition-using-Recurrent-Convolutional-Network-LRCN-
+# Human-Action-Recognition-using-Recurrent-Convolutional-Network-LRCN
 
 This project focuses on recognizing actions using a Deep Learning approach called Long-term Recurrent Convolutional Network (LRCN). It combines Convolutional Neural Network (CNN) and Long Short-term Memory (LSTM) models to identify relations between different image sequences.
 
